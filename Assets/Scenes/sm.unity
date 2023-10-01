@@ -185,6 +185,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7918335002988649766, guid: 1818dcd462a814a3893de3b2123cc0ab,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 90ac924eb62506646af50d7048d7b437, type: 2}
+    - target: {fileID: -2042359963714989658, guid: 1818dcd462a814a3893de3b2123cc0ab,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0e6e52f9b5a0f1745a9a648da89b7bcb, type: 2}
     - target: {fileID: 65702495048144492, guid: 1818dcd462a814a3893de3b2123cc0ab,
         type: 3}
       propertyPath: m_IsActive
@@ -195,6 +205,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: shopping-env
       objectReference: {fileID: 0}
+    - target: {fileID: 7195912258332508970, guid: 1818dcd462a814a3893de3b2123cc0ab,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 90ac924eb62506646af50d7048d7b437, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1818dcd462a814a3893de3b2123cc0ab, type: 3}
 --- !u!1001 &6132049
